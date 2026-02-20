@@ -5,7 +5,7 @@ Please feel free to submit a pull-request if you have any improvements to make. 
 
 # Build
 Add the ccomplex.h to your project, and in any implementation file you will compile in your build process, add the following.
-```
+```C
 #define CCOMPLEX_IMPLEMENTATION
 #include "ccomplex.h"
 ```
